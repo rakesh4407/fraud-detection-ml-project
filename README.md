@@ -18,14 +18,31 @@ It covers **data preprocessing, feature engineering, model training, and evaluat
 
 ---
 
-## 📂 Project Structure
-fraud-detection-ml-project/
-├── .gitignore
-├── LICENSE
-├── README.md
-├── Streamlit output 1.pdf
-├── Streamlit output 2.pdf
-├── analyse_model.ipynb
-├── fraud_detection.py
-├── fraud_detection_pipline.pkl
+## 🛠️ Technologies Used
+- **Python 3.9+**
+- **NumPy, Pandas, Matplotlib, Seaborn**
+- **Scikit-learn**
+- **XGBoost**
+- **Jupyter Notebook**
+- **Streamlit** (for visualization & deployment)
 
+---
+
+## 📈 Results
+- Random Forest Accuracy: **98.7%**  
+- XGBoost AUC: **0.99**  
+- Achieved overall detection accuracy of **94%**  
+
+📊 Example Outputs:  
+- Confusion Matrix  
+- ROC Curve  
+- Sample Streamlit output (see `Streamlit output 1.pdf` & `Streamlit output 2.pdf`)  
+
+---
+
+## ⚙️ Installation & Usage
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/rakesh4407/fraud-detection-ml-project.git
+   cd fraud-detection-ml-project
