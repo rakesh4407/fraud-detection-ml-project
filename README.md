@@ -50,6 +50,9 @@ It covers **data preprocessing, feature engineering, model training, and evaluat
  ---
 
 ## 👤 Author
+**Rakesh G**
 
-- Rakesh G
-- [GitHub](https://github.com/rakesh4407) | [LinkedIn](https://www.linkedin.com/in/rakesh-g-9a5a4a325) | [Email](mailto:rakee4407@gmail.com) 
+🔗 [GitHub](https://github.com/rakesh4407)  
+💼 [LinkedIn](https://www.linkedin.com/in/rakesh-g-9a5a4a325)  
+📧 [Email](mailto:rakee4407@gmail.com)
+
