@@ -46,3 +46,12 @@ It covers **data preprocessing, feature engineering, model training, and evaluat
    ```bash
    git clone https://github.com/rakesh4407/fraud-detection-ml-project.git
    cd fraud-detection-ml-project
+
+ ---
+
+## 👤 Author
+
+Rakesh G
+GitHub: [rakesh4407](https://github.com/rakesh4407)
+LinkedIn: [rakesh-g-9a5a4a325](https://www.linkedin.com/in/rakesh-g-9a5a4a325)
+Email: rakee4407@gmail.com
