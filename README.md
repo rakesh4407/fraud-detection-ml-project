@@ -19,3 +19,13 @@ It covers **data preprocessing, feature engineering, model training, and evaluat
 ---
 
 ## 📂 Project Structure
+fraud-detection-ml-project/
+├── .gitignore
+├── LICENSE
+├── README.md
+├── Streamlit output 1.pdf
+├── Streamlit output 2.pdf
+├── analyse_model.ipynb
+├── fraud_detection.py
+├── fraud_detection_pipline.pkl
+
